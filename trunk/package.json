@@ -32,7 +32,7 @@
         "b-sidebar": "^1.2.1",
         "bootstrap-vue": "^2.11.0",
         "leaflet": "^1.6.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "sweet-modal-vue": "^2.0.0",
         "sweetalert": "^2.1.2",
         "sweetalert2": "^9.10.6",
